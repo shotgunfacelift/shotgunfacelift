@@ -15,11 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I currently do:
+
 -Frontend development
+
 -UI/UX design
+
 -Game development
 
 I use:
+
 -C++
+
 -JS/Vue
+
 -Python
