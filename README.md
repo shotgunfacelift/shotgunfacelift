@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Github page.
 
 <!--
 **shotgunfacelift/shotgunfacelift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I currently do:
+-Frontend development
+-UI/UX design
+-Game development
+
+I use:
+-C++
+-JS/Vue
+-Python
