@@ -27,6 +27,10 @@ I use:
 
 -C++
 
--JS/Vue
+-Javascript
+
+-Three.js
+
+-Vue
 
 -Python
