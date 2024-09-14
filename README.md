@@ -4,7 +4,7 @@
 
 #### [Digital Dashboards Project](https://shotgunfacelift.github.io/digital-dashboard-site/)
 
-#### [Digital Dashboards Project][(https://shotgunfacelift.github.io/digital-dashboard-site/]
+#### [Cube Game](https://shotgunfacelift.github.io/game-test-public/)
 
 <hr>
 
