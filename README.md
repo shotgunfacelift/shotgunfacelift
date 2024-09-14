@@ -4,6 +4,8 @@
 
 #### [Digital Dashboards Project](https://shotgunfacelift.github.io/digital-dashboard-site/)
 
+#### [Digital Dashboards Project][(https://shotgunfacelift.github.io/digital-dashboard-site/]
+
 <hr>
 
 <!--
