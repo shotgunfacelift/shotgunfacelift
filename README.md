@@ -6,6 +6,8 @@
 
 #### [Cube Game](https://shotgunfacelift.github.io/game-test-public/)
 
+### [Raycasting Demo](https://shotgunfacelift.github.io/game-test-site/)
+
 <hr>
 
 <!--
