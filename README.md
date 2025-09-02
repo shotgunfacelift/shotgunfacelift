@@ -2,11 +2,13 @@
 
 ### [My Homepage](https://shotgunfacelift.github.io/)
 
-#### [Digital Dashboards Project](https://shotgunfacelift.github.io/digital-dashboard-site/)
+#### [Digital Dashboards Project](https://shotgunfacelift.github.io/digital-dashboard-site/) - Joint project with another developer.
 
-#### [Cube Game](https://shotgunfacelift.github.io/game-test-public/)
+#### [Cube Game](https://shotgunfacelift.github.io/game-test-public/) - Simple infinite runner game made using 3js.
 
-#### [Raycasting Demo](https://shotgunfacelift.github.io/raycast-demo/)
+#### [Raycasting Demo](https://shotgunfacelift.github.io/raycast-demo/) - Raycasting demo written in JS and HTML Canvas.  Features enemy pathfinding via basic A*.
+
+#### [Block Game Demo](https://shotgunfacelift.github.io/3js-game-test/) - Another 3js project where you can build and destroy blocks.
 
 <hr>
 
