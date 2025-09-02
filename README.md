@@ -8,7 +8,7 @@
 
 #### [Raycasting Demo](https://shotgunfacelift.github.io/raycast-demo/) - Raycasting demo written in JS and HTML Canvas.  Features enemy pathfinding via basic A*.
 
-#### [Block Game Demo](https://shotgunfacelift.github.io/3js-game-test/) - Another 3js project where you can build and destroy blocks.
+#### [Block Game Demo](https://shotgunfacelift.github.io/3js-game-test/) - A 3js project where you can build and destroy blocks.
 
 <hr>
 
