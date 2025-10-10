@@ -2,7 +2,7 @@
 
 ### [My Homepage](https://shotgunfacelift.github.io/)
 
-#### [Labyrinth](https://shotgunfacelift.github.io/raycast-demo/) - Maze game made using JS and HTML Canvas.  Uses my raycasting engine which can be found below.
+#### [Labyrinth](https://shotgunfacelift.github.io/labyrinth/) - Maze game made using JS and HTML Canvas.  Uses my raycasting engine which can be found below.
 
 #### [Block Game Demo](https://shotgunfacelift.github.io/3js-game-test/) - A 3js project where you can build and destroy blocks.
 
