@@ -2,11 +2,13 @@
 
 ### [My Homepage](https://shotgunfacelift.github.io/)
 
-#### [Labyrinth](https://shotgunfacelift.github.io/labyrinth/) - Maze game made using JS and HTML Canvas.  Uses my raycasting engine which can be found below.
+#### [Labyrinth](https://shotgunfacelift.github.io/labyrinth/) - Maze game made using JS and HTML Canvas.  Infinite, randomly generated levels that gradually increase in difficulty.  Uses my raycasting engine which can be found below.
+
+#### [Game of Death](https://shotgunfacelift.github.io/gameofdeath/) - Conway's Game of Life, but with a twist.  There's a small chance that cells turn malicious and start "killing" their neighbors.  Made using JS and HTML Canvas.
 
 #### [Block Game Demo](https://shotgunfacelift.github.io/3js-game-test/) - A 3js project where you can build and destroy blocks.
 
-#### [Raycasting Demo](https://shotgunfacelift.github.io/raycast-demo/) - Raycasting demo written in JS and HTML Canvas.  Features enemy pathfinding via basic A*.
+#### [Raycasting Demo](https://shotgunfacelift.github.io/raycast-demo/) - Raycasting engine written in JS and HTML Canvas.  Features enemy pathfinding via basic A* as well as exchanging fire with billboard enemies.
 
 #### [Cube Game](https://shotgunfacelift.github.io/game-test-public/) - Simple infinite runner game made using 3js.
 
