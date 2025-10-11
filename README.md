@@ -8,7 +8,7 @@
 
 #### [Block Game Demo](https://shotgunfacelift.github.io/3js-game-test/) - A 3js project where you can build and destroy blocks.
 
-#### [Raycasting Demo](https://shotgunfacelift.github.io/raycast-demo/) - Raycasting engine written in JS and HTML Canvas.  Features enemy pathfinding via basic A* as well as exchanging fire with billboard enemies.
+#### [Raycasting Demo](https://shotgunfacelift.github.io/raycast-demo/) - Raycasting engine written in JS and HTML Canvas.  Features enemy pathfinding via basic A* as well as collision and hit detection.
 
 #### [Cube Game](https://shotgunfacelift.github.io/game-test-public/) - Simple infinite runner game made using 3js.
 
