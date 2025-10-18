@@ -6,6 +6,8 @@
 
 #### [Game of Death](https://shotgunfacelift.github.io/gameofdeath/) - Conway's Game of Life with a twist.  There's a small chance that cells turn malicious and start "killing" their neighbors.  Made using JS and HTML Canvas.
 
+#### [Game of Death 3D](https://shotgunfacelift.github.io/gameofdeath3d/) - Like Game of Death but 3D, featuring 3 different rulesets.  Made using 3js.
+
 #### [Block Game Demo](https://shotgunfacelift.github.io/3js-game-test/) - A 3js project where you can build and destroy blocks.
 
 #### [Raycasting Demo](https://shotgunfacelift.github.io/raycast-demo/) - Raycasting engine written in JS and HTML Canvas.  Features enemy pathfinding via basic A* as well as collision and hit detection.
