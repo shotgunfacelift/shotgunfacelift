@@ -4,6 +4,8 @@
 
 #### [Labyrinth](https://shotgunfacelift.github.io/labyrinth/) - Maze game made using JS and HTML Canvas.  Infinite, randomly generated levels that gradually increase in difficulty.  Uses my raycasting engine which can be found below.
 
+#### [CQB Sandbox](https://shotgunfacelift.github.io/cqb-sandbox/) - Draw a building layout, place static enemies, and simulate a 4-man entry team clearing the building.  Written in Python and packaged for web with Pygbag.
+
 #### [Game of Death](https://shotgunfacelift.github.io/gameofdeath/) - Conway's Game of Life with a twist.  There's a small chance that cells turn malicious and start "killing" their neighbors.  Made using JS and HTML Canvas.
 
 #### [Game of Death 3D](https://shotgunfacelift.github.io/gameofdeath3d/) - Like Game of Death but 3D, featuring 3 different rulesets.  Made using 3js.
